@@ -16,7 +16,7 @@ python3 -m pip install -r requirements.txt
 Example output:
 
 
-![image](https://github.com/gwillgues/RTL-SDR-Scanner/assets/96144967/dc9bfb5f-d5b3-4b9e-b636-79e8688e6c88)
+![image](https://github.com/gwillgues/RTL-SDR-Scanner/assets/96144967/ddf5fdfa-d917-4175-8674-680cd806897f)
 
 
 
